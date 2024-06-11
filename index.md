@@ -7,7 +7,7 @@ You should comment out all portions of your portfolio that you have not complete
 <!--- Anything between these symbols will not render on the published site -->
 ```
 
-| **Engineer** | **School** | **Area of Interest** | 11 |
+| **Engineer** | **School** | **Area of Interest** | **Area of Interest** |
 |:--:|:--:|:--:|:--:|
 | Pranati T | Dougherty Valley High School | Electrical Engineering | Incoming Senior
 
