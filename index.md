@@ -36,18 +36,15 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- I customized the display and sounds that come from the project. When an alarm comes, a custom image screen drawn by me appears, and an audio of my choice plays instead of the default robot. I faced the error that although my file types for the audio files matched the original ones, the sounds were not playing. After some research, I found that the only way to make custom WAV files play on the device is to convert them from MP3 to WAV file types using Audacity. Using the following tutorial: https://learn.adafruit.com/microcontroller-compatible-audio-file-conversion I was able to resolve this issue and make my audios play without any errors.  
+
 
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuVc0ztC_dc?si=6TpYgbjbguBpFGdl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
 
 My first milestone was assembling my baseline project and troubleshooting any errors I faced. I downloaded all of the files correctly, but repeatedly recieved an error in one of my code files. This code file was one of the files that came with the project bundle, so it did not make sense that there was an error in its code. After a few days of trying to fix the error, we realized that the device was not started up correctly. Following the steps to reboot the device fixed everything, and it magically began to work. In my next milestone, I want to make a second screen which can be switched to with the click of a button. This screen would display weekly alarms and their times. 
 
