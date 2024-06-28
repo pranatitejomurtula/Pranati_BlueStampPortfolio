@@ -45,7 +45,7 @@ My first milestone was assembling my baseline project and troubleshooting any er
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
-
+# FILE NAME: code.py
 ```python
 # SPDX-FileCopyrightText: 2020 Liz Clark for Adafruit Industries
 #
@@ -348,6 +348,7 @@ while True:
         print(mode)
 
 ```
+# FILE NAME: secrets.py
 ```python
 # SPDX-FileCopyrightText: 2020 Liz Clark for Adafruit Industries
 #
@@ -365,6 +366,7 @@ secrets = {
     'location' : 'your location'
 }
 ```
+# FILE NAME: calendar.py
 ```python
 # SPDX-FileCopyrightText: 2020 Liz Clark for Adafruit Industries
 #
@@ -391,6 +393,7 @@ holidays = {
     }
 
 ```
+# FILE NAME: openweather_graphics.py
 ```python
 # SPDX-FileCopyrightText: 2019 Limor Fried for Adafruit Industries
 # SPDX-FileCopyrightText: 2020 Liz Clark for Adafruit Industries
