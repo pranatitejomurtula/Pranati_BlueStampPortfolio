@@ -395,8 +395,6 @@ holidays = {
 ```
 # openweather_graphics.py
 ```python
-
-
 import time
 import json
 from calendar import holidays
