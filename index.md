@@ -41,7 +41,7 @@ For my second milestone, I customized the display and sounds of the alarm system
 My first milestone was assembling my baseline project and troubleshooting any errors I faced. I downloaded all of the files correctly, but repeatedly recieved an error in one of my code files. This code file was one of the files that came with the project bundle, so it did not make sense that there was an error in its code. After a few days of trying to fix the error, we realized that the device was not started up correctly. Following the steps to reboot the device fixed everything, and it magically began to work. In my next milestone, I want to make a second screen which can be switched to with the click of a button. This screen would display weekly alarms and their times. 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+![Headstone Image](3d_printing_circuit-diagram.jpg)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
