@@ -581,7 +581,7 @@ class OpenWeather_Graphics(displayio.Group):
         # self._icon_sprite = displayio.TileGrid(icon, pixel_shader=icon.pixel_shader)
 
         self._icon_group.append(self._icon_sprite)
-
+```
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
