@@ -17,26 +17,19 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+For my final milestone, I attached a 3-D printed case to my PyPortal setup. One struggle I had was that the case arrived, but no screws to fasten the case to the screen. I ended up using strings to tie the parts together, and it worked. This last milestone was the last aesthetic touch 
+to my project. Moving forward, I am interested in exploring what I can connect this project to using the I2C connection. I have either the option of connecting another PyPortal or even an Arduino to the existing PyPortal. 
 
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbE_icsdvMQ?si=x97JDMhAw7-ACikj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- I customized the display and sounds that come from the project. When an alarm comes, a custom image screen drawn by me appears, and an audio of my choice plays instead of the default robot. I faced the error that although my file types for the audio files matched the original ones, the sounds were not playing. After some research, I found that the only way to make custom WAV files play on the device is to convert them from MP3 to WAV file types using Audacity. Using the following tutorial: https://learn.adafruit.com/microcontroller-compatible-audio-file-conversion I was able to resolve this issue and make my audios play without any errors.  
+For my second milestone, I customized the display and sounds of the alarm system of the project. When an alarm comes, a custom image screen drawn by me appears, and an audio of my choice plays instead of the default robot. I faced the error that although my file types for the audio files matched the original ones, the sounds were not playing. After some research, I found that the only way to make custom WAV files play on the device is to convert them from MP3 to WAV file types using Audacity. Using the following tutorial: https://learn.adafruit.com/microcontroller-compatible-audio-file-conversion I was able to resolve this issue and make my audios play without any errors.  
 
 
 # First Milestone
