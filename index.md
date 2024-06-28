@@ -44,7 +44,7 @@ My first milestone was assembling my baseline project and troubleshooting any er
 ![Headstone Image](3d_printing_circuit-diagram.jpg)
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+Here's the code I used! 
 # code.py
 ```python
 # SPDX-FileCopyrightText: 2020 Liz Clark for Adafruit Industries
