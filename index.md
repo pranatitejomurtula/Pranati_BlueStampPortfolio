@@ -13,7 +13,7 @@ The PyPortal Titano Retro Weather Station displays the local temperature, weathe
 # Final Milestone
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_iutkhiIdM?si=WrM37CUsJMrZgIZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my final milestone, I attached a 3-D printed case to my PyPortal setup. One struggle I had was that the case arrived, but no screws to fasten the case to the screen. I ended up using strings to tie the parts together, and it worked. This last milestone was the last aesthetic touch 
 to my project. Moving forward, I am interested in exploring what I can connect this project to using the I2C connection. I have either the option of connecting another PyPortal or even an Arduino to the existing PyPortal. 
