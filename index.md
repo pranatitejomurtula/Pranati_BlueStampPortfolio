@@ -8,7 +8,7 @@ The PyPortal Titano Retro Weather Station displays the local temperature, weathe
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](bluestampLogoReplacement.jpg)
   
 # Final Milestone
 
